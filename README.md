@@ -14,6 +14,7 @@ If you’re a student at Galvanize, it’s likely you will have a programming pr
 4. Wrap any relevant with (3) backticks like so: ```<CODE></CODE>```
 5. Add any revelant technology tags.
 6. Click submit!
+7. Click [here](https://www.youtube.com/watch?v=QRpTRPzrFwE) for video demo.
 
 #### Answer A Question
 
@@ -22,6 +23,9 @@ If you’re a student at Galvanize, it’s likely you will have a programming pr
 3. Describe your answer in detail.
 4. Wrap any relevant with (3) backticks like so: ```<CODE></CODE>```
 6. Click submit!
+7. Click [here](https://www.youtube.com/watch?v=QRpTRPzrFwE) for video demo. 
+
+![Queue Overflow](queue-overflow.png "Queue Overflow")
 
 ## Built With
 

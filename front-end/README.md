@@ -23,6 +23,8 @@ If you’re a student at Galvanize, it’s likely you will have a programming pr
 4. Wrap any relevant with (3) backticks like so: ```<CODE></CODE>```
 6. Click submit!
 
+![Queue Overflow](queue-overflow.png "Queue Overflow")
+
 ## Built With
 
 - React.js
